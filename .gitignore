@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Fichiers temporaires Sage
+*.sage.py
+
+# Fichiers de verrouillage LibreOffice / Office
+.~lock.*#
+~$*

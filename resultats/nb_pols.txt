@@ -1,0 +1,20 @@
+Nombre de polyominos en fonction de leur taille :
+
+1         : Nb pol taille = 1
+2         : Nb pol taille = 2
+6         : Nb pol taille = 3
+15        : Nb pol taille = 4
+42        : Nb pol taille = 5
+112       : Nb pol taille = 6
+308       : Nb pol taille = 7
+825       : Nb pol taille = 8
+2255      : Nb pol taille = 9
+6026      : Nb pol taille = 10
+16386     : Nb pol taille = 11
+43700     : Nb pol taille = 12
+118334    : Nb pol taille = 13
+315180    : Nb pol taille = 14
+850368    : Nb pol taille = 15
+2262927   : Nb pol taille = 16
+6087170   : Nb pol taille = 17
+16186388  : Nb pol taille = 18
